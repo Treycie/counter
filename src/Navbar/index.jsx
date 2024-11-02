@@ -4,7 +4,8 @@ const Navbar = () => {
     return (
         <nav className="bg-blue-500 p-4">
             <div className="container mx-auto flex justify-between items-center">
-               <div className="space-x-4">
+                
+                <div className="space-x-4 ml-auto">
                     <a href="/" className="text-white hover:bg-blue-700 px-3 py-2 rounded">
                         Home
                     </a>
